@@ -2,3 +2,9 @@ h1{
     background-color:lightblue;
     font-size: large;
 }
+body{
+    background-color: lightblue;
+}
+image{
+    opacity:100;
+}
